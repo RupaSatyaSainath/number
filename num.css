@@ -1,0 +1,24 @@
+body{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8qbb_BQbIywU3auDEyfWtPZ76KhbV7aNhzg&usqp=CAU);
+    margin-top: 100px;
+    margin-left:250px;
+    height: 500px;
+    border-radius: 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: 2px 2px 2px gold;
+}
+.container{
+    font-style:italic;
+    border-radius: 30%;
+}
+#m{
+    border: 3px solid goldenrod;
+    margin-right: 250px;
+    background-color: pink;
+}
+
+
+
+
+
